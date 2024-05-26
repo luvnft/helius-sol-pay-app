@@ -89,7 +89,7 @@ export default function Home() {
 return (
   <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
     <h1 className="mb-6 text-3xl font-bold text-orange-700">
-      Solana Pay Demo
+      $SOL PAY
     </h1>
     <div className="w-full max-w-md p-6 mx-auto bg-white rounded-xl shadow-md">
       <div className="mb-4">
